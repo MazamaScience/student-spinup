@@ -2,6 +2,8 @@
 
 The following instructions will help you install R and RStudio.
 
+Actions become clear when the process is clear.
+
 -----
 
 ## Install R
