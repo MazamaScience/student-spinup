@@ -12,7 +12,7 @@ weeks and months. Here we outline what you need to get started on your fist day.
 2. Create a GitHub account and a repository for this class/workshop.
 3. See if you can make your way through the [readr-dplyr](homework/readr-dplyr.md)
 homework.
-4. `add-commit-push` your commented R code to the repository you created.
+4. `git add-commit-push` your commented R code to the git repository you created.
 
 
 -----
